@@ -59,13 +59,10 @@ def main():
               ]
 
     for model_name in model_names:
-        #verify(model_name)
+        verify(model_name)
         print("===================================================")
         
         
-    net = torchvision.models.inception_v3(pretrained=True)
-    print("v3")
-    verify(None, net)
     
     net = torchvision.models.mobilenet_v2(pretrained=True)
     print("mobilenet_v2")
