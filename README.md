@@ -28,3 +28,13 @@ python verify.py
 ## Citation
 
 If you find our work is useful, please consider citing our paper.
+
+```
+@inproceedings{deng2023blurreddilated,
+  title={Blurred-Dilated Method for Adversarial Attacks},
+  author={Yang Deng and Weibin Wu and Jianping Zhang and Zibin Zheng},
+  booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
+  year={2023},
+  url={https://openreview.net/forum?id=1JlAV2paGu}
+}
+```
